@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "897133713545",
+    "firebase_url": "https://uber-u.firebaseio.com",
+    "project_id": "uber-u",
+    "storage_bucket": "uber-u.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897133713545:android:9705bc6e5ab2b06a",
+        "android_client_info": {
+          "package_name": "com.tarefas.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897133713545-fbhpn9j3t6tc7g68g7utibd1mupt4pns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfwkqX6iin8aFpAtOvc2IKzhmDSKuUp2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897133713545-fbhpn9j3t6tc7g68g7utibd1mupt4pns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

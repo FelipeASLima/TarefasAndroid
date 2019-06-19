@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tarefas Android</string>
+    <string-array name="categorias">
+        <item>Eletrônicos</item>
+        <item>Textil</item>
+        <item>Lar</item>
+        <item>Brinquedos</item>
+        <item>Outros</item>
+    </string-array>
+
+    <string name="username">Nome de Usuário</string>
+    <string name="password">Senha</string>
+    <string name="textButtonlogin">login</string>
+    <string name="textButtonRegister">Registrar</string>
+    <string name="password2">Confirme a senha</string>
+    <string name="textRegister">Para registrar, confirme a senha abaixo</string>
+</resources>
